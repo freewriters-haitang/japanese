@@ -1,4 +1,4 @@
-# English Version Website of HaiTang Case
+# Japanese Version Website of HaiTang Case
 
 将一部分社群整理的信息，发布在 blog 上，便于更广泛地传播、检索、和 [RSS 订阅](https://freewriters-haitang.github.io/index.xml)。
 

@@ -1,0 +1,92 @@
+baseURL: https://freewriters-haitang.github.io/japanese
+title: HaiTang Case - Japanese Version
+theme: [PaperMod]
+languageCode: 'en'
+
+enableInlineShortcodes: true # 允许内联短码
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+paginate: 10  # 每页显示的文章数
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+# relativeURLs: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+menu:
+  main:
+    - name: About
+      url: about/
+      weight: 5
+    - name: Articles
+      url: archives
+      weight: 15
+    - name: Search
+      url: search/
+      weight: 20
+    - name: Tags
+      url: tags/
+      weight: 35
+    - name: RSS
+      url: index.xml
+      weight: 60
+    - name: Chinese
+      url: https://freewriters-haitang.github.io
+      weight: 100
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: 
+  author: someone
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  # disableSpecial1stPost: true
+  displayFullLangName: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: false # 显示目录
+  TocOpen: false # 自动展开目录
+  ShowFullTextinRSS: true # RSS 显示全文
+  hideFooter: false # 隐藏页脚
+  ShowLastMod: false #显示文章更新时间
+  
+  homeInfoParams:
+    Title: "more..."
+    # Content: >
+    #   <a href="/about/">关于本站</a> · 海棠案介绍 · 支援信息 · 更多信息
+
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+  assets:
+    disableHLJS: true
+
+

@@ -12,13 +12,7 @@
 - [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - Media Reports, Narratives, and Comments: [中国語版](https://freewriters-haitang.github.io/posts/000015-reports/)，[English Version 英語版](https://freewriters-haitang.github.io/english/posts/000015-reports/)
 
-### 最新情報を得るためには、
-
-- Fediverse/Mastodon: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
-- Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
-- Website: [https://freewriters-haitang.github.io](https://freewriters-haitang.github.io)
-
-#### To stay informed, follow us on 
+#### 最新情報を得るためには、
 
 - Fediverse/Mastodon: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
 - Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)

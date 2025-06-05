@@ -1,9 +1,22 @@
-## Japanese Version
+## 中国・「海棠(ハイタン)文学」事件
 
-其它语言的信息请访问 for other languages
+他の言語の情報は、こちらをご覧ください：
 
-- [中文](https://freewriters-haitang.github.io/)
-- [English Version 英文版](https://freewriters-haitang.github.io/english/)
+- [中国語版](https://freewriters-haitang.github.io/) さらに詳細な情報
+- [English Version 英語版](https://freewriters-haitang.github.io/english/)
 
+### Information
 
-to be continued...
+- Introduction - to do
+- [Campaign Flyer](https://freewriters-haitang.github.io/japanese/posts/000010-flyer/): the freedom from fear
+- [Poster Picutres](https://freewriters-haitang.github.io/posts/000013-pictures/)
+- [Media Reports, Narratives, and Comments](https://freewriters-haitang.github.io/posts/000015-reports/)
+
+### 最新情報を得るためには、
+
+- Fediverse/Mastodon: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
+- Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
+- Website: [https://freewriters-haitang.github.io](https://freewriters-haitang.github.io)
+
+or [submit your feedback](https://cryptpad.fr/form/#/2/form/view/11rS9aG2ilfoe+J-17tKLUWYAdmn03XSze1HJ75zdOY/).
+

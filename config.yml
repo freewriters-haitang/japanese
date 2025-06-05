@@ -24,7 +24,7 @@ menu:
 #    - name: このサイトについて
 #      url: about/
 #      weight: 5
-    - name: すべての記事
+    - name: Archives
       url: archives
       weight: 15
     - name: 検索
@@ -33,7 +33,7 @@ menu:
     - name: タグ
       url: tags/
       weight: 35
-    - name: RSS購読
+    - name: RSS
       url: index.xml
       weight: 60
 #    - name: Chinese

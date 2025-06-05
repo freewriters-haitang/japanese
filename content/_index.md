@@ -8,7 +8,7 @@
 ### Information
 
 - Introduction - to do
-- [チラシの文案](https://freewriters-haitang.github.io/japanese/posts/000010-flyer/)
+- [チラシの文案](https://freewriters-haitang.github.io/japanese/posts/000010-flyer/)：中国・「海棠(ハイタン)文学」事件
 - [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - Media Reports, Narratives, and Comments: [中国語版](https://freewriters-haitang.github.io/posts/000015-reports/)，[English Version 英語版](https://freewriters-haitang.github.io/english/posts/000015-reports/)
 

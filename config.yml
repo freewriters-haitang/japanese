@@ -21,24 +21,24 @@ minify:
 
 menu:
   main:
-    - name: About
+    - name: このサイトについて
       url: about/
       weight: 5
-    - name: Articles
+    - name: すべての記事
       url: archives
       weight: 15
-    - name: Search
+    - name: 検索
       url: search/
       weight: 20
-    - name: Tags
+    - name: タグ
       url: tags/
       weight: 35
-    - name: RSS
+    - name: RSS購読
       url: index.xml
       weight: 60
-    - name: Chinese
-      url: https://freewriters-haitang.github.io
-      weight: 100
+#    - name: Chinese
+#      url: https://freewriters-haitang.github.io
+#      weight: 100
 
 outputs:
   home:

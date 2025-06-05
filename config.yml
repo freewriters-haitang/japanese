@@ -21,9 +21,9 @@ minify:
 
 menu:
   main:
-    - name: このサイトについて
-      url: about/
-      weight: 5
+#    - name: このサイトについて
+#      url: about/
+#      weight: 5
     - name: すべての記事
       url: archives
       weight: 15

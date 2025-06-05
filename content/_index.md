@@ -18,4 +18,4 @@
 - Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
 - Website: [https://freewriters-haitang.github.io](https://freewriters-haitang.github.io)
 
-If you wish to join our campaign, you could also send an E-mail to: [p.fictionishumanright@gmail.com](mailto:p.fictionishumanright@gmail.com)
+キャンペーンに参加したい場合は、以下のメールアドレスにご連絡ください：[p.fictionishumanright@gmail.com](mailto:p.fictionishumanright@gmail.com)

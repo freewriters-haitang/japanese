@@ -8,7 +8,7 @@
 ### Information
 
 - Introduction - to do
-- [Campaign Flyer](https://freewriters-haitang.github.io/japanese/posts/000010-flyer/): the freedom from fear
+- [チラシの文案](https://freewriters-haitang.github.io/japanese/posts/000010-flyer/)
 - [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - Media Reports, Narratives, and Comments: [中国語版](https://freewriters-haitang.github.io/posts/000015-reports/)，[English Version 英語版](https://freewriters-haitang.github.io/english/posts/000015-reports/)
 
